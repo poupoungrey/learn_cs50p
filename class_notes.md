@@ -8,7 +8,14 @@ David J Malan
 - plus sign is also used in string concatenation
 - str is string
 - [link](docs.python.org) is the official python documentation
-
-***left off: 1:04:18
+- int = integer
+- float
+- f prefix to format strings
+    - print(f"{1000:,}") in order to add commas
+- there is no longer any max integer size in python, unlike in other languages
+- def keyword (define) for creating functions
+    - def func_name():
 
 # Lecture 2
+
+**Left off 1:50:17
