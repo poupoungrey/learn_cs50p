@@ -17,5 +17,16 @@ David J Malan
     - def func_name():
 
 # Lecture 2
+- parenthesis not necessary in conditional statements, but the expression needs to end with :
+- control flow
+- elif = else if combined
+- else keyword still requires : at the end of the line
+- indentation is required in the syntax
+- and conditionals don't technically need and keyword in py
+- bool are true or false (capital T or capital F)
+- 'pythonic' = term used to describe if something is a unique way of doing things in python lang
+- match case keywords recently added to py
 
-**Left off 1:50:17
+# Lecture 3
+
+**left off 2:46:24
