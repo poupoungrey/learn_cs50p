@@ -28,5 +28,6 @@ David J Malan
 - match case keywords recently added to py
 
 # Lecture 3
+**TRANSITIONED TO NOTEBOOK NOTETAKING**
 
 **left off 2:46:24
